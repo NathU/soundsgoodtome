@@ -1,0 +1,2 @@
+My Question:
+- Do we include a web-based editor/mixing tool, or do we just host stuff like Github does? What about a basic audio player so you can listen to what's in the repo without having to clone/pull?
