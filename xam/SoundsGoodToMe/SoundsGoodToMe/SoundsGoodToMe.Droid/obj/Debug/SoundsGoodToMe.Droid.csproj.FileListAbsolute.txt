@@ -1,0 +1,2 @@
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\SoundsGoodToMe.Droid.csprojResolveAssemblyReference.cache
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\SoundsGoodToMe.Droid.csproj.CoreCompileInputs.cache

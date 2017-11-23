@@ -1,0 +1,8 @@
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\bin\Debug\SoundsGoodToMe.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\bin\Debug\SoundsGoodToMe.pdb
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\bin\Debug\Urho.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\bin\Debug\Urho.xml
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\obj\Debug\SoundsGoodToMe.csprojResolveAssemblyReference.cache
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\obj\Debug\SoundsGoodToMe.csproj.CoreCompileInputs.cache
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\obj\Debug\SoundsGoodToMe.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe\obj\Debug\SoundsGoodToMe.pdb

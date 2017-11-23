@@ -1,0 +1,14 @@
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\bin\iPhone\Debug\UrhoSharpiOS.exe
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\bin\iPhone\Debug\UrhoSharpiOS.pdb
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\bin\iPhone\Debug\SoundsGoodToMe.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\bin\iPhone\Debug\Urho.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\bin\iPhone\Debug\SoundsGoodToMe.pdb
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\bin\iPhone\Debug\Urho.xml
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\optimized\
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\SoundsGoodToMe.iOS.csprojResolveAssemblyReference.cache
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\SoundsGoodToMe.iOS.csproj.CoreCompileInputs.cache
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\UrhoSharpiOS.exe
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.iOS\obj\iPhone\Debug\UrhoSharpiOS.pdb
