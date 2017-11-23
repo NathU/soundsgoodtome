@@ -1,2 +1,17 @@
 D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\SoundsGoodToMe.Droid.csprojResolveAssemblyReference.cache
 D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\SoundsGoodToMe.Droid.csproj.CoreCompileInputs.cache
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\SoundsGoodToMe.Droid.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\SoundsGoodToMe.Droid.pdb
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\SoundsGoodToMe.Droid.SoundsGoodToMe.Droid.apk
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\SoundsGoodToMe.Droid.SoundsGoodToMe.Droid-Signed.apk
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\SoundsGoodToMe.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\Urho.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\Urho.Droid.SdlBinding.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\SoundsGoodToMe.pdb
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\bin\Debug\Urho.xml
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\SoundsGoodToMe.Droid.dll
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\SoundsGoodToMe.Droid.pdb
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\android\bin\SoundsGoodToMe.Droid.SoundsGoodToMe.Droid.apk
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\res\drawable\icon.png
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\R.cs.flag
+D:\Downloads\s\xam\SoundsGoodToMe\SoundsGoodToMe\SoundsGoodToMe.Droid\obj\Debug\uploadflags.txt

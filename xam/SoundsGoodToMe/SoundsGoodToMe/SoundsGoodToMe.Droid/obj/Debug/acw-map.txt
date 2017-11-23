@@ -1,0 +1,12 @@
+SoundsGoodToMe.Droid.MainActivity, SoundsGoodToMe.Droid;md5233ec560ddbe7a003315ab77ffbf3d55.MainActivity
+SoundsGoodToMe.Droid.MainActivity, SoundsGoodToMe.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5233ec560ddbe7a003315ab77ffbf3d55.MainActivity
+SoundsGoodToMe.Droid.MainActivity;md5233ec560ddbe7a003315ab77ffbf3d55.MainActivity
+soundsgoodtome.droid.MainActivity;md5233ec560ddbe7a003315ab77ffbf3d55.MainActivity
+Urho.Droid.FullscreenUrhoActivity, Urho;md51d192b6e055cfc2544809172a2f4fef6.FullscreenUrhoActivity
+Urho.Droid.FullscreenUrhoActivity, Urho, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d192b6e055cfc2544809172a2f4fef6.FullscreenUrhoActivity
+Urho.Droid.FullscreenUrhoActivity;md51d192b6e055cfc2544809172a2f4fef6.FullscreenUrhoActivity
+urho.droid.FullscreenUrhoActivity;md51d192b6e055cfc2544809172a2f4fef6.FullscreenUrhoActivity
+Urho.Droid.UrhoSurfacePlaceholder, Urho;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+Urho.Droid.UrhoSurfacePlaceholder, Urho, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+Urho.Droid.UrhoSurfacePlaceholder;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+urho.droid.UrhoSurfacePlaceholder;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder

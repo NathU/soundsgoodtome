@@ -21,7 +21,7 @@ namespace SoundsGoodToMe.Droid
         {
             base.OnCreate(bundle);
             var layout = new AbsoluteLayout(this);
-            var surface = UrhoSurface.CreateSurface<MyGame>(this);
+            var surface = UrhoSurface.CreateSurface(this);
             layout.AddView(surface);
             SetContentView(layout);
             myGame = await surface.Show<MyGame>(new ApplicationOptions("Data"));
